@@ -9,15 +9,15 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: '',
-  name: '',
-  subtitle: '',
-  cta: '',
+  title: 'Hi, my name is ',
+  name: 'Peter Rawlings',
+  subtitle: "I'm a front end developer",
+  cta: 'About',
 };
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'profile-picture.jpg',
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
