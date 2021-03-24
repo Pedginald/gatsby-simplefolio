@@ -10,7 +10,7 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: 'Hi, my name is ',
-  name: 'Peter Rawlings',
+  name: 'Peter Rawlings,',
   subtitle: "I'm a front end developer",
   cta: 'About',
 };
@@ -18,9 +18,11 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile-picture.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne:
+    'I am a self-taught front end developer, passionate about creating clean and responsive web apps.',
+  paragraphTwo:
+    'After years of being a professional farrier/blacksmith, I hung up my chaps to pursue a career in this amazing and progressive industry.',
+  paragraphThree: 'My main skills include HTML, CSS, JavaScript, React.js, Node.js and PostgreSQL.',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
